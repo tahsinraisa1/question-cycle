@@ -14,7 +14,7 @@ This is a simple Express.js backend application demonstrating load balancing usi
 
    ```bash
    git clone <repository-url>
-   cd QuestionCycleSystem
+   cd question-cycle
 
 2. RUN npm i
 3. RUN tsc
